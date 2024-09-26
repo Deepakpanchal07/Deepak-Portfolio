@@ -3,12 +3,13 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](https://rishavchanda.netlify.app)
 ## Some Images:
-<img width="450px;" src="![about](https://github.com/user-attachments/assets/8c16467c-845b-4396-b33e-311844fbf907)"/>
-<img width="450px;" src="![skills](https://github.com/user-attachments/assets/23b569b8-722c-4506-974b-3c2cc65a141d)"/>
-<img width="450px;" src="![experience](https://github.com/user-attachments/assets/12d556a5-3f9a-47a9-ad3d-6889ad4ed3d6)"/>
-<img width="450px;" src="![projects](https://github.com/user-attachments/assets/87418753-e141-4ee4-b87f-2f452cdcf4ce)"/>
-<img width="450px;" src="![education](https://github.com/user-attachments/assets/691d8b8f-5f5d-43c5-9fea-3ae4a718effe)"/>
-<img width="450px;" src="![contact](https://github.com/user-attachments/assets/9193d26a-8323-47ca-aa2e-a6df6ade9972)"/>
+
+![about](https://github.com/user-attachments/assets/448658d5-8a54-4034-bada-9871261b912e)
+![skills](https://github.com/user-attachments/assets/9a48b4c6-f611-422c-a4ac-4fbf3153289d)
+![experience](https://github.com/user-attachments/assets/24b2b071-9d97-4f4b-acd0-00eb6d00f691)
+![projects](https://github.com/user-attachments/assets/2b1bd7dc-1da8-4af5-b488-c7d96dcc4c07)
+![education](https://github.com/user-attachments/assets/f495dd0a-39b6-4772-950e-67a2c5cdc784)
+![contact](https://github.com/user-attachments/assets/50a50701-24cf-42b0-837b-80e21e22819f)
 
 
 ## Table of Contents
