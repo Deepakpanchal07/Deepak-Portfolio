@@ -67,10 +67,18 @@ const Desc = styled.div`
 
 const Image = styled.img`
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
+    max-height: 80vh;
     border-radius: 12px;
     margin-top: 30px;
     box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);
+    @media only screen and (max-width: 768px) {
+    max-height: 60vh;
+  }
+
+  @media only screen and (max-width: 480px) {
+    max-height: 50vh;
+  }
 `;
 
 const Label = styled.div`
@@ -126,7 +134,7 @@ const Member = styled.div`
 const MemberImage = styled.img`
     width: 50px;
     height: 50px;
-    object-fit: cover;
+    object-fit: top;
     border-radius: 50%;
     margin-bottom: 4px;
     box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3);

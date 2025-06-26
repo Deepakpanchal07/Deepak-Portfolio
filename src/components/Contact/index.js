@@ -147,10 +147,10 @@ const Contact = () => {
     e.preventDefault();
     emailjs
       .sendForm(
-        "service_ddpckyj",
+        "service_pbbhbi4",
         "template_h590xz2",
         form.current,
-        "ZKMo3ymUVCuYmtYBV"
+        "5Wisn7YKIblM3D2Ww"
       )
       .then(
         (result) => {
