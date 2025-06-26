@@ -4,7 +4,9 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ### Weblink: [Live Website](https://hitesh-kumar-portfolio.vercel.app)
 ## Some Images:
 
-![about](https://github.com/user-attachments/assets/448658d5-8a54-4034-bada-9871261b912e)
+![about](https://github.com/user-attachments/assets/ba153359-0477-47b7-ac74-e3528ffe1d56)
+
+
 ![skills](https://github.com/user-attachments/assets/9a48b4c6-f611-422c-a4ac-4fbf3153289d)
 ![experience](https://github.com/user-attachments/assets/24b2b071-9d97-4f4b-acd0-00eb6d00f691)
 ![projects](https://github.com/user-attachments/assets/2b1bd7dc-1da8-4af5-b488-c7d96dcc4c07)
