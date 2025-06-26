@@ -34,26 +34,21 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ## Introduction
 My Portfolio is a React.js application that serves as an online portfolio to showcase my work, skills, and achievements. It provides an overview of my background, displays my projects, and offers a way to contact me.
 
-## Features
-- About Me: An overview of my background, skills, and experiences.
-- Projects: A collection of my notable projects with descriptions, screenshots, and links.
-- Skills: A list of my technical skills and proficiencies.
-- Resume: A link to download my resume.
-- Contact: A form to send me messages or inquiries.
+✨ Features
+- About Me: Overview of my background, development journey, and areas of expertise in mobile app development.
+- Projects: Showcase of my Flutter apps with app descriptions, screenshots, and live APK download or GitHub links.
+- Skills: A categorized list of my technical skills including Flutter, Dart, Firebase, and other tools & technologies.
+- Resume: Option to view and download my latest resume directly from the app or link to online storage (like Google Drive or GitHub).
+- Contact: A functional contact form where users can send messages or inquiries, optionally integrated with services like EmailJS or Firebase Functions.
 
-Flutter: A modern UI toolkit by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.
-
-Dart: The programming language used to write Flutter apps, optimized for fast apps on any platform.
-
-Firebase: A Backend-as-a-Service (BaaS) platform for authentication, real-time databases, cloud storage, and hosting.
-
-Provider / Bloc / Riverpod (as per your project): State management solutions for efficient and scalable app architecture.
-
-Android Studio / VS Code: Popular IDEs for Flutter app development.
-
-Git: A distributed version control system to track changes and collaborate on code.
-
-GitHub: A platform to host, manage, and deploy your code repositories.
+🚀 Technologies Used
+- Flutter: A modern UI toolkit by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- Dart: The programming language used to write Flutter apps, optimized for fast apps on any platform.
+- Firebase: A Backend-as-a-Service (BaaS) platform for authentication, real-time databases, cloud storage, and hosting.
+- Provider / Bloc / Riverpod (as per your project): State management solutions for efficient and scalable app architecture.
+- Android Studio / VS Code: Popular IDEs for Flutter app development.
+- Git: A distributed version control system to track changes and collaborate on code.
+- GitHub: A platform to host, manage, and deploy your code repositories.
 
 ## Installation
 To run this portfolio locally, follow these steps:
