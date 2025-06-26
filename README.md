@@ -7,11 +7,19 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 ![about](https://github.com/user-attachments/assets/ba153359-0477-47b7-ac74-e3528ffe1d56)
 
 
-![skills](https://github.com/user-attachments/assets/9a48b4c6-f611-422c-a4ac-4fbf3153289d)
-![experience](https://github.com/user-attachments/assets/24b2b071-9d97-4f4b-acd0-00eb6d00f691)
-![projects](https://github.com/user-attachments/assets/2b1bd7dc-1da8-4af5-b488-c7d96dcc4c07)
-![education](https://github.com/user-attachments/assets/f495dd0a-39b6-4772-950e-67a2c5cdc784)
-![contact](https://github.com/user-attachments/assets/50a50701-24cf-42b0-837b-80e21e22819f)
+![Skills](https://github.com/user-attachments/assets/dfc482e3-e66f-4332-97bd-95f1dbd9bfd1)
+
+
+![Experience](https://github.com/user-attachments/assets/a1dcd067-1873-42e5-8217-ada4ff71a444)
+
+![Projects](https://github.com/user-attachments/assets/3291587f-ac3c-466f-86c5-893528005403)
+
+![Education](https://github.com/user-attachments/assets/f88c4584-0e9c-4d9a-aaf9-16b194862ef0)
+
+
+![Contact](https://github.com/user-attachments/assets/426f4bc0-aada-4a39-89c1-2c1e2c2b2bd7)
+
+
 
 
 ## Table of Contents
