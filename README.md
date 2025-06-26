@@ -41,13 +41,19 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 - Resume: A link to download my resume.
 - Contact: A form to send me messages or inquiries.
 
-## Technologies Used
-- React.js: A JavaScript library for building user interfaces.
-- HTML5 & CSS3: Markup and styling languages for building web pages.
-- JavaScript: A programming language for adding interactivity to web applications.
-- Style-Components: A CSS framework for creating responsive and mobile-first designs.
-- Git: A version control system for tracking changes and collaborating on projects.
-- GitHub Pages: A platform for hosting and deploying web applications.
+Flutter: A modern UI toolkit by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.
+
+Dart: The programming language used to write Flutter apps, optimized for fast apps on any platform.
+
+Firebase: A Backend-as-a-Service (BaaS) platform for authentication, real-time databases, cloud storage, and hosting.
+
+Provider / Bloc / Riverpod (as per your project): State management solutions for efficient and scalable app architecture.
+
+Android Studio / VS Code: Popular IDEs for Flutter app development.
+
+Git: A distributed version control system to track changes and collaborate on code.
+
+GitHub: A platform to host, manage, and deploy your code repositories.
 
 ## Installation
 To run this portfolio locally, follow these steps:
