@@ -23,17 +23,18 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 - [Contributing](#contributing)
 - [License](#license)
 
-📖 Introduction
+📖 Introduction:-
+
 My Portfolio is a Flutter mobile application designed to showcase my work, skills, and achievements as an app developer. It provides an overview of my background, highlights my featured projects, and offers an easy way for users to get in touch with me through the app.
 
-✨ Features
+✨ Features :-
 - About Me: Overview of my background, development journey, and areas of expertise in mobile app development.
 - Projects: Showcase of my Flutter apps with app descriptions, screenshots, and live APK download or GitHub links.
 - Skills: A categorized list of my technical skills including Flutter, Dart, Firebase, and other tools & technologies.
 - Resume: Option to view and download my latest resume directly from the app or link to online storage (like Google Drive or GitHub).
 - Contact: A functional contact form where users can send messages or inquiries, optionally integrated with services like EmailJS or Firebase Functions.
 
-🚀 Technologies Used
+🚀 Technologies Used :-
 - Flutter: A modern UI toolkit by Google for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - Dart: The programming language used to write Flutter apps, optimized for fast apps on any platform.
 - Firebase: A Backend-as-a-Service (BaaS) platform for authentication, real-time databases, cloud storage, and hosting.
@@ -42,7 +43,7 @@ My Portfolio is a Flutter mobile application designed to showcase my work, skill
 - Git: A distributed version control system to track changes and collaborate on code.
 - GitHub: A platform to host, manage, and deploy your code repositories.
 
-## Installation
+## Installation :-
 To run this portfolio locally, follow these steps:
 
 1. Clone the repository: `https://github.com/Deepakpanchal07/Deepak-Portfolio`
@@ -51,7 +52,7 @@ To run this portfolio locally, follow these steps:
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
 
-📱 Usage
+📱 Usage :-
 After installing and running the Flutter app on your device or emulator:
 - Use the bottom navigation bar or drawer menu to smoothly navigate between different sections.
 - Visit the About Me section to know about my background, experience, and technical skills.
@@ -60,7 +61,7 @@ After installing and running the Flutter app on your device or emulator:
 - Open the Resume section to view or download my latest resume.
 - Use the Contact section to send me a message or inquiry directly through the app.
 
-## Contributing
+## Contributing :-
 Contributions are welcome! If you'd like to contribute to My Portfolio, please follow these steps:
 
 1. Fork the repository.
@@ -69,5 +70,5 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 4. Push to the branch: `git push origin my-feature`
 5. Open a pull request.
 
-## License
+## License :-
 This project is licensed under the [MIT License](LICENSE).
