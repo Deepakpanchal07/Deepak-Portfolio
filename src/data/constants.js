@@ -199,7 +199,7 @@ export const projects = [
       "Developed a responsive eCommerce app frontend using Flutter, featuring product listing, product details, cart management.Implemented local state management to handle cart add/remove operations and dynamic UI updates without a backend.Designed a clean, modern UI/UX, interactive user experience with seamless navigation between product, detail, and cart screens.",
     image:
       "https://github.com/user-attachments/assets/207ddf11-f8a6-4935-bed9-7a61b25192ab",
-    tags: ["Flutter","Dart","LayoutBuilder", "Navigators"],
+    tags: ["Flutter", "Dart", "LayoutBuilder", "Navigators"],
     category: "Responsive Front End",
     github: "https://github.com/Deepakpanchal07/flutter-application",
     webapp: "https://github.com/Deepakpanchal07/flutter-application/blob/main/flutter.apk",
